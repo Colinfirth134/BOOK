@@ -19,7 +19,7 @@
 		<input type="text" class="form-control my-3" name="page" placeholder="จำนวนหน้า">
 		<input type="file" name="image" /><br><br>
 		<button type="submit" id="submit" class="btn btn-outline-blue" name="submit">ยืนยันข้อมูล</button>
-		</form>
+		
 	
 	
 
